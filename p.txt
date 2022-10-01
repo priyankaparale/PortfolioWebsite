@@ -1,0 +1,11 @@
+<!-- MY info -->
+        <div class="main">
+          <div class="infoContainer">
+            <div class="devInfo">
+              <div class="Hello">Hi, I am</div>
+              <div class="name">Priyanka</div>
+              <div class="about">Front End Developer</div>
+            </div>
+          </div>
+        </div>
+<!-- MY info -->
