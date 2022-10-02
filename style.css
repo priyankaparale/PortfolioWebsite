@@ -92,7 +92,7 @@ html {
     letter-spacing: 0.3rem;
 }
 
-button{
+.button{
     font-size: 2rem;
     font-weight: 700;
     background-color: #fff;
@@ -100,7 +100,7 @@ button{
     padding: 0.5rem 1rem;
     text-transform: uppercase;
     letter-spacing: 0.3rem;
-  }
+}
 /* End of Section 1 */
   
 /* Navbar */
@@ -241,7 +241,7 @@ button{
     letter-spacing: 0.3rem;
     transform: skew(-10deg);
     box-shadow: 0.2rem 0.2rem 0.5rem #555;
-}
+} 
 /* End of Section 2 */
 
 /* Section 3 */
@@ -409,10 +409,10 @@ button{
 .social-media-link {
     margin: 0 2rem;
     padding: 0.7rem;
-    background-color: #e41c6f;
+    background-color: #e41c6f; 
     border-radius: 0.5rem;
     display: inline-block;
-}
+} 
   
 .social-media-link i {
     font-size: 4rem;
